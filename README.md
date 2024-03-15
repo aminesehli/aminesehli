@@ -1,4 +1,4 @@
-Audio programming, with interest in vst development and music.
+python, matlab and c++
 
 <!---
 aminesehli/aminesehli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
